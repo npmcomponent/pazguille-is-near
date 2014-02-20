@@ -1,0 +1,14 @@
+{
+  "name": "pazguille-is-near",
+  "description": "Calculates if the mouse position is near to a given element.",
+  "version": "0.2.1",
+  "keywords": [
+    "position",
+    "elements",
+    "points",
+    "closest",
+    "nearest"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
